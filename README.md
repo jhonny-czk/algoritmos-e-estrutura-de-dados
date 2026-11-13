@@ -72,7 +72,7 @@ Este projeto consolida implementações modulares de algoritmos clássicos e est
 
 ---
 
-## 📖 Bibliografia
+## 📖 Bibliografia Recomendada   
 
 Abaixo estão as referências bibliográficas completas utilizadas como base teórica deste repositório:
 
