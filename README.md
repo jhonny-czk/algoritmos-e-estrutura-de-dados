@@ -101,8 +101,8 @@ Este repositório reúne anotações, códigos e exercícios baseados nas aulas,
 > *Os códigos e anotações aqui presentes refletem estudos, exemplos de aula e implementações próprias desenvolvidas para fins de prática e aprendizado.*
 -->
 
+<!--
 ---
-
 ## 📂 Estrutura do Repositório
 
 ```text
@@ -122,6 +122,8 @@ Este repositório reúne anotações, códigos e exercícios baseados nas aulas,
 └── exercicios/         # Desafios práticos e resolução de problemas
 
 ```
+-->
+<!--
 ---
 
 ## ⚖️ Aviso de Uso Educacional
@@ -132,3 +134,4 @@ Este repositório tem caráter estritamente acadêmico e de estudo pessoal, sem 
 - **Materiais de terceiros:** Enunciados, exemplos teóricos e códigos-base reproduzidos de aulas ou livros pertencem aos seus respectivos autores e docentes referenciados nos créditos e na bibliografia.
 
 ---
+-->
