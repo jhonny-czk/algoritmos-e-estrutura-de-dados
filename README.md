@@ -85,7 +85,8 @@ Abaixo estão as referências bibliográficas completas utilizadas como base te�
 7. **PINHEIRO, Francisco Assis Cartaxo.** *Elementos de Programação em C*. Porto Alegre: Bookman, 2012. 320 p. ISBN: 978-8540702028.
 8. **DEITEL, Paul; DEITEL, Harvey.** *C: Como Programar*. Tradução da 6ª edição americana. São Paulo: Pearson Prentice Hall, 2011. 848 p. ISBN: 978-8576059349.
 9. **DAMAS, Luís.** *Linguagem C*. 10. ed. Rio de Janeiro: LTC, 2007. 320 p. ISBN: 978-8521615194.
-10. **BHARGAVA, Aditya Y.** *Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos*. 2. ed. São Paulo: Novatec Editora, 2026. 328 p. ISBN: 978-8575229293.
+10. **LA ROCCA, Marcello.** *Entendendo Estruturas de Dados*. São Paulo: Novatec Editora, 2025. 304 p. ISBN: 978-8575229316.
+11. **BHARGAVA, Aditya Y.** *Entendendo Algoritmos: Um Guia Ilustrado Para Programadores e Outros Curiosos*. 2. ed. São Paulo: Novatec Editora, 2026. 328 p. ISBN: 978-8575229293.
 
 <!--
 ---
